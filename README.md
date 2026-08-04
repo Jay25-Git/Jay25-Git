@@ -36,5 +36,5 @@ Instead of only reading about new advancements, I like to dive in—whether it's
 ---
 
 <div align="center">
-  <img src="![Jay25-Git's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Jay25-Git&theme=dark)" />
+  <img src="https://readme-stats-github.pages.dev/api?username=Jay25-Git&theme=dark)" />
 </div>
