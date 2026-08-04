@@ -36,7 +36,5 @@ Instead of only reading about new advancements, I like to dive in—whether it's
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay25-Git&theme=dark&show_icons=true&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay25-Git&theme=dark&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay25-Git&theme=dark&show_icons=true&hide_border=false&layout=compact" height="170" />
+  ![Jay25-Git's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Jay25-Git&theme=dark)
 </div>
