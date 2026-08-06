@@ -35,6 +35,4 @@ Instead of only reading about new advancements, I like to dive in—whether it's
 
 ---
 
-<div align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=Jay25-Git&theme=dark)" />
-</div>
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=dark)
