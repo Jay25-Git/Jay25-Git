@@ -35,4 +35,4 @@ Instead of only reading about new advancements, I like to dive in—whether it's
 
 ---
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=dark)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Jay25-Git&theme=dark)
