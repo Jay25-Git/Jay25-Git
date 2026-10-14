@@ -10,7 +10,6 @@ Lately I've been playing with SQL + Python for data, RAG and GenAI experiments, 
 
 - 🏙️ Built **[Altus](https://altus-swart.vercel.app)**, a scroll-driven 3D landing page with Next.js + Three.js
 - 🔨 Currently cooking up **Quantix**, an end-to-end AI-driven product
-- 🌱 Contributing to open source, like [CityFix](https://github.com/NxtLabTech/CityFix/pull/41) (Java / Spring Boot)
 
 ### 🌐 Socials:
 
