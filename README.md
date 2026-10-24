@@ -1,5 +1,5 @@
 
-Hey! I'm Jai Vishnu (Bale Rao Jai Vishnu Vardhan Rao), a CS student at NIAT and the founder of [NoktoLabs](https://github.com/NoktoLabs).
+Hey! I'm Jai (Bale Rao Jai Vishnu Vardhan Rao), a CS student at NIAT and the founder of [NoktoLabs](https://github.com/NoktoLabs).
 
 I'm into full-stack dev, AI/ML and data. Honestly, I learn best by just building stuff and breaking it until it works. 🛠️
 
