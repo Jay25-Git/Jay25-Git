@@ -6,7 +6,7 @@ I'm into full-stack dev, AI/ML and data. Honestly, I learn best by just building
 Lately I've been playing with SQL + Python for data, RAG and GenAI experiments, and building UIs with React, Next.js and Flutter on top of FastAPI / Node.js backends.
 
 - 🏙️ Built **[Altus](https://altus-swart.vercel.app)**, a scroll-driven 3D landing page with Next.js + Three.js
-- 🔨 Currently cooking up **Quantix**, an end-to-end AI-driven product
+- 🔨 Currently cooking up **Nokto**, an Web-Agency
 
 ### 🌐 Socials:
 
