@@ -42,3 +42,11 @@ Lately I've been playing with SQL + Python for data, RAG and GenAI experiments, 
 ---
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Jay25-Git&theme=dark)
+
+### 🐟 My Koi:
+
+---
+
+<img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+
+<sub>Drawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
