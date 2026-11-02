@@ -8,6 +8,18 @@ Lately I've been playing with SQL + Python for data, RAG and GenAI experiments, 
 - 🏙️ Built **[Altus](https://altus-swart.vercel.app)**, a scroll-driven 3D landing page with Next.js + Three.js
 - 🛹Also working with StudLyf for building the next big thing in Hackathons.
 
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://gh-readme-profile.vercel.app/api?username=Jay25-Git&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" /><br />
+      <sub>Drawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+    </td>
+  </tr>
+</table>
+
 ### 🌐 Socials:
 
 ---
@@ -36,17 +48,3 @@ Lately I've been playing with SQL + Python for data, RAG and GenAI experiments, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-
-### 📊 GitHub Stats:
-
----
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Jay25-Git&theme=dark)
-
-### 🐟 My Koi:
-
----
-
-<img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
-
-<sub>Drawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
