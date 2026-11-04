@@ -6,7 +6,7 @@ Lately I've been playing with SQL + Python for data, RAG and GenAI experiments, 
 
 - 🔨I have a Web-Agency called Nokto. Check Out Nokto.in
 - 🏙️ Built **[Altus](https://altus-swart.vercel.app)**, a scroll-driven 3D landing page with Next.js + Three.js
-- 🛹Also working with StudLyf for building the next big thing in Hackathons.
+- 🛹Also working with StudLyf for building the next big thing in student growth.
 
 <table>
   <tr>
